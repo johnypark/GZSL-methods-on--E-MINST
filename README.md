@@ -4,7 +4,7 @@
 # Generative Adverserial Nets (GAN) for learning latent data distribution
 
 # GAN 
-<img src="https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/GAN_bs256_ep500.gif" width="4000" height="4000" />
+<img src="https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/GAN_bs256_ep500.gif" width="500" height="500" />
 
 # conditional GAN on class priors
 
