@@ -1,18 +1,17 @@
 ## GZSL methods on (E)MINST
  Repo for practicing GZSL methods on handwritten letter data EMNIST / MNIST
 
-# Generative Adverserial Nets (GAN) for learning latent data distribution
+### Generative Adverserial Nets (GAN) for learning latent data distribution
 
-# GAN 
+#### GAN 
 <img src="https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/GAN_bs256_ep500.gif" width="500" height="500" />
 
-![Alt Text](https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/GAN_bs256_ep500.gif)
-
-![](https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/GAN_bs256_ep500.gif)
 
 
-# conditional GAN on class priors
+#### conditional GAN on class priors
+<img src="https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/conditional_GAN_bs4096_ep1900.gif" width="1000" height="1000" />
 
 
-# spectral normalized GAN with class projections
+#### spectral normalized GAN with class projections
+<img src="https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/snGAN-proj.gif" width="250" height="250" />
 
