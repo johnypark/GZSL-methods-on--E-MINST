@@ -3,6 +3,10 @@
 
 ### Generative Adverserial Nets (GAN) for learning latent data distribution
 
+
+#### spectral normalized GAN with class projections
+<img src="https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/snGAN-proj.gif" width="250" height="250" />
+
 #### GAN 
 <img src="https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/GAN_bs256_ep500.gif" width="500" height="500" />
 
@@ -12,6 +16,4 @@
 <img src="https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/conditional_GAN_bs4096_ep1900.gif" width="750" height="750" />
 
 
-#### spectral normalized GAN with class projections
-<img src="https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/snGAN-proj.gif" width="250" height="250" />
 
