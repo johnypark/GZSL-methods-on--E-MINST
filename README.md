@@ -9,7 +9,7 @@
 
 
 #### conditional GAN on class priors
-<img src="https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/conditional_GAN_bs4096_ep1900.gif" width="1000" height="1000" />
+<img src="https://github.com/johnypark/GZSL-methods-on--E-MINST/blob/main/results/conditional_GAN_bs4096_ep1900.gif" width="750" height="750" />
 
 
 #### spectral normalized GAN with class projections
