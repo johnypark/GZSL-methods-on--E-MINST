@@ -2,6 +2,7 @@
  Repo for practicing GZSL methods on handwritten letter data EMNIST / MNIST
 
 ### Generative Adverserial Nets (GAN) for learning latent data distribution
+- https://colab.research.google.com/github/deepmind/sonnet/blob/v2/examples/little_gan_on_mnist.ipynb
 
 
 #### spectral normalized GAN with class projections
